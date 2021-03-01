@@ -7,13 +7,13 @@ FRONTEND:
           -Bootstrap ;
           -Sass ;
     •  Next.js  :
-            -Server side rendering ;
+        -Server side rendering ;
 	-Static site generation ;
 	-Server API endpoints ;
 	-Manage STATE :  -Local State:    useState ;
-		     -Lifting State:  prop drilling ;
-		     -Global State:   useContext ;
-		     -External Data:  ReactQuery || SWR 
+		         -Lifting State:  prop drilling ;
+		         -Global State:   useContext ;
+		         -External Data:  ReactQuery || SWR 
     •  TypeScript ;
 
 
